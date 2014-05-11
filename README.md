@@ -1,4 +1,4 @@
-BootStrapFixedSidebar
-=====================
+BootstrapTemplate
+=================
 
-Some CSS/LESS/SASS magic to make a fixed sidebar with Bootstrap.
+Basic Bootstrap template with local sources
